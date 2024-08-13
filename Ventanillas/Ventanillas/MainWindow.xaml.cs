@@ -33,9 +33,13 @@ namespace Ventanillas
                 w.Show();
                 Close();
             }
-            if( sender == BT_Cerrar)
+            else if( sender == BT_Cerrar)
             {
                 Close();
+            }
+            else if ( sender == Clic) 
+            {
+                MessageBox.Show("Elvis No Es Presley Ni Tampoco Crespo","¿Quién es elvis?");
             }
         }
     }

@@ -15,3 +15,20 @@ C:\Users\eecheto\Desktop\Pruebas\prueba2\Ventanillas\Ventanillas\obj\Debug\Venta
 C:\Users\eecheto\Desktop\Pruebas\prueba2\Ventanillas\Ventanillas\obj\Debug\Ventanillas.pdb
 C:\Users\eecheto\Desktop\Pruebas\prueba2\Ventanillas\Ventanillas\obj\Debug\Window1.g.cs
 C:\Users\eecheto\Desktop\Pruebas\prueba2\Ventanillas\Ventanillas\obj\Debug\Window1.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\bin\Debug\Ventanillas.exe.config
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\bin\Debug\Ventanillas.exe
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\bin\Debug\Ventanillas.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.csproj.AssemblyReference.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\MainWindow.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Window1.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\App.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas_MarkupCompile.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas_MarkupCompile.lref
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\MainWindow.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Window1.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.g.resources
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.Properties.Resources.resources
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.csproj.GenerateResource.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.csproj.CoreCompileInputs.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.exe
+C:\Users\mramirez\Desktop\Todas las carpetas\Tareas\GitConEE\TestingmindXD\Ventanillas\Ventanillas\obj\Debug\Ventanillas.pdb

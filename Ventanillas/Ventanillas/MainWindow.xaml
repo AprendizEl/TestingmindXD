@@ -52,6 +52,14 @@
                             <TextBox Text="" Width="25" FontSize="15"/>
 
                         </Border>
+                        <Border BorderThickness="1" Margin="0,0">
+                            <Border.BorderBrush>
+                                <SolidColorBrush Color="Black" />
+                            </Border.BorderBrush>
+
+                            <Button Content="Clic" Width="50" FontSize="15" Name="Clic" Click="Button_Click"/>
+
+                        </Border>
                     </StackPanel>
 
                     <StackPanel Grid.Row="0" Margin="129,0" HorizontalAlignment="Right">
