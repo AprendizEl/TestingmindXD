@@ -22,6 +22,8 @@ namespace Ventanillas
         public Window1()
         {
             InitializeComponent();
+            List<string> list = new List<string> { "item1", "item2", "item3", "item4", "item5", "item6", "item7" };
+            CB_Tipo.ItemsSource = list;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -33,9 +35,15 @@ namespace Ventanillas
                 Close();
 
             }
-            if (sender == BT_Cerrar)
+            else if (sender == BT_Cerrar)
             {
                 Close();
+            }
+            else
+            {
+                TB_Elosa.Text = "Default";
+                TB_Hviga.Text = "Default";
+                CB_Tipo.SelectedItem = "Default";
             }
         }
     }

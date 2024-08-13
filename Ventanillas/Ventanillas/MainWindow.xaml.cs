@@ -23,6 +23,9 @@ namespace Ventanillas
         public MainWindow()
         {
             InitializeComponent();
+
+            List<string> list = new List<string> { "item1", "item2", "item3", "item4", "item5", "item6", "item7" };
+            CB_Unidad.ItemsSource = list;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -33,9 +36,13 @@ namespace Ventanillas
                 w.Show();
                 Close();
             }
-            if( sender == BT_Cerrar)
+            else if( sender == BT_Cerrar)
             {
                 Close();
+            }
+            else
+            {
+                MessageBox.Show("Estas en la unidad : " + CB_Unidad.SelectedItem.ToString());
             }
         }
     }
