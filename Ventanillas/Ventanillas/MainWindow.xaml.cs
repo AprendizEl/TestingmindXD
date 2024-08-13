@@ -40,9 +40,13 @@ namespace Ventanillas
             {
                 Close();
             }
+            else if ( sender == Clic)
+            {
+                MessageBox.Show("Elvis No Es Presley Ni Tampoco Crespo","¿Quién es elvis?");
+            }
             else
             {
-                MessageBox.Show("Estas en la unidad : " + CB_Unidad.SelectedItem.ToString());
+            MessageBox.Show("Estas en la unidad : " + CB_Unidad.SelectedItem.ToString());
             }
         }
     }
